@@ -1,5 +1,5 @@
 from flask import Flask, jsonify, request
-from flask_restful import Api, Resource
+from Flask_Restful import Api, Resource
 from logic import Add, Subtract, Multiply, Divide
 
 
